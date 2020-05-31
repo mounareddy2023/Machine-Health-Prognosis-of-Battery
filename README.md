@@ -1,2 +1,2 @@
 # Battery-Management-System
-Machine Health Prognosis of Battery Powered Systems using XGBoost.
+Machine Health Prognosis of Rechargeable Batteries using XGBoost.
